@@ -51,5 +51,5 @@ Console Application using CRUD with SQLite Database, introducing Dapper and Conf
 
 # Resources Used
 
-- The C Sharp Academy [Habit Logger](https://thecsharpschool.getlearnworlds.com/course/habit-logger)
+- The C Sharp Academy [Coding Tracker](https://thecsharpschool.getlearnworlds.com/course/codingtracker)
 - MS .NET Documentation [.NET API](https://learn.microsoft.com/en-us/dotnet/api/?view=net-8.0)
